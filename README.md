@@ -4,8 +4,6 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
  
  ## About me
 
@@ -64,7 +62,7 @@ __DBeaver__
 ### Cashify (Team lead)
 
 - You can download a [PDF](https://drive.google.com/file/d/1KgRyTxlm4oWc4EP5puDvw92IZ-XoKXA4/view?usp=sharing) with all the test cases. (Romanian)
-
+- Examples of test cases made in Qase: [1](https://drive.google.com/file/d/1AVLCGPLwAAoC7aMisndaO3DjUljUoEa6/view?usp=sharing), [2](https://drive.google.com/file/d/1SDptfnkNeWVvsu7Jvg5oAzKhgNhae_Fj/view?usp=sharing), [3](https://drive.google.com/file/d/1ZZqOw5k9PMUxC6ziabU8KFIoSC8blECa/view?usp=sharing).
 
 
 
