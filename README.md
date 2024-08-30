@@ -12,7 +12,7 @@
  Seeking to contribute my skills and knowledge to a dynamic team committed to delivering high-quality products.
 
  ## CV
-You can download my CV as a [PDF](https://drive.google.com/file/d/1OKcKVQfR6JK4H4bJLBubAVhofdY9mBre/view?usp=sharing) from my Google Drive.
+You can download my CV as a [PDF](https://drive.google.com/file/d/1aPDJgSUEoLQrNhRToNaZ8ZhCj-HV_gDA/view?usp=sharing) from my Google Drive.
 
 ## Skills
 
