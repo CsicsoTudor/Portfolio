@@ -1,6 +1,7 @@
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
+- [Certifications](#certifications)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
@@ -13,6 +14,9 @@
 
  ## CV
 You can download my CV as a [PDF](https://drive.google.com/file/d/1aPDJgSUEoLQrNhRToNaZ8ZhCj-HV_gDA/view?usp=sharing) from my Google Drive.
+
+## Certifications
+[GoIt Quality Assurance Tester](https://drive.google.com/file/d/1l_ePFVV-GvyhTURTwXUtkgIIoNz-MJbX/view?usp=sharing)
 
 ## Skills
 
